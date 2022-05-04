@@ -78,6 +78,13 @@
 
 }
 
+.button1 {
+    background-color: var(--white-ad-color);
+    color: var(--primary-ad-color);
+    border-radius: 40px;
+    padding: 15px 20px;
+}
+
 input[type=submit]{
     width: 200px;
     margin: 20px auto;
